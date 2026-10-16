@@ -1,7 +1,0 @@
-streamlit>=1.35,<2
-numpy>=1.26,<3
-pandas>=2.0,<3
-scipy>=1.11,<2
-plotly>=5.20,<7
-yfinance>=0.2.40,<2
-pytest>=8,<10
